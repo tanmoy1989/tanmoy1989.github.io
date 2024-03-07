@@ -35,7 +35,7 @@ Supervisor: Prof. Gautam Biswas and Prof. Abhiram Hens
 ## Education ##
 Jun 2013 - Dec 2017: 	*Ph.D (Physics)*\
 **Ruhr Universität Bochum, Germany**\
-Supervisor: Prof. Ralf Drautz and Jutta Rogal 
+Supervisor: Prof. Ralf Drautz and Dr. Jutta Rogal 
 
 
 Jul 2009 - May 2011: 	*M.Sc (Physics)*\
