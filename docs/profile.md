@@ -5,13 +5,13 @@ permalink: /Profile/
 ---
 
 
-##Professional Experience## 
+## Professional Experience ## 
 
 Nov 2021 - Present: 		Postdoctoral Research Fellow
 
 University of Warwick, UK
 Supervisor: Dr. Bora Karasulu
-
+&nbsp;
 Dec 2019 - Oct 2021: 	Postdoctoral Research Associate
 
 Johns Hopkins University, USA
