@@ -5,28 +5,24 @@ permalink: /Profile/
 ---
 
 
-*Professional Experience* 
+##Professional Experience## 
 
 Nov 2021 - Present: 		Postdoctoral Research Fellow
 
-							University of Warwick, UK
-
-							Supervisor: Dr. Bora Karasulu
+University of Warwick, UK
+Supervisor: Dr. Bora Karasulu
 
 Dec 2019 - Oct 2021: 	Postdoctoral Research Associate
 
-							Johns Hopkins University, USA
-
-							Supervisor: Prof. Tim Mueller
+Johns Hopkins University, USA
+Supervisor: Prof. Tim Mueller
 
 Apr 2018 - Nov 2019:	Postdoctoral Research Associate
 
-							University of Illinois at Urbana-Champaign, USA
-
-							Supervisor: Prof. Elif Ertekin
+University of Illinois at Urbana-Champaign, USA
+Supervisor: Prof. Elif Ertekin
 
 Sep 2011 - Apr 2013: 	Project Fellow
 
 CSIR - Central Mechanical Engineering Research Institute, India
-
-Prof. Gautam Biswas and Prof. Abhiram Hens
+Supervisor: Prof. Gautam Biswas and Prof. Abhiram Hens
