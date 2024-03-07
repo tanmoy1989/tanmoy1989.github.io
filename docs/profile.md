@@ -10,8 +10,9 @@ permalink: /Profile/
 Nov 2021 - Present: 		Postdoctoral Research Fellow
 
 University of Warwick, UK
-Supervisor: Dr. Bora Karasulu
 &nbsp;
+Supervisor: Dr. Bora Karasulu
+
 Dec 2019 - Oct 2021: 	Postdoctoral Research Associate
 
 Johns Hopkins University, USA
